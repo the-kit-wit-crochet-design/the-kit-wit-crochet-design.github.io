@@ -1,8 +1,29 @@
 ---
+title: "About The Kit Wit"
 permalink: /about/
-title: "About"
+layout: single
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Welcome to **The Kit Wit**, a place for simple, friendly crochet lessons.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## What you'll find here
+- Step-by-step lessons for complete beginners
+- Easy explanations with no confusing words
+- Tips to help you avoid common mistakes
+- Simple project ideas, so you can make something real
+
+## Why this site exists
+Crochet can look hard at the start, but every project begins with one loop and one stitch. This site breaks it down into small steps, so anyone can learn at their own speed.
+
+## Where to start
+New to crochet? Begin with these lessons, in order:
+
+1. [How to Make a Slip Knot](/beginner/how-to-make-a-slip-knot/)
+2. [How to Make a Chain Stitch](/beginner/how-to-make-a-chain-stitch/)
+3. [How to Single Crochet](/beginner/how-to-do-single-crochet/)
+
+## Join the community
+New lessons and ideas are shared on our WhatsApp channel. [Join The Kit Wit on WhatsApp](https://whatsapp.com/channel/0029VbDsX5SH5JLvxKh5VX0a).
+
+Happy crocheting! 🧶
