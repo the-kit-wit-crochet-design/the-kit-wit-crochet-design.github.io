@@ -1,39 +1,19 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Crochet for Beginners
-logo:"/assets/images/the-kit-wit-avatar-small.png"
+title: "Crochet for Beginners"
+logo: "/assets/images/the-kit-wit-avatar-small.png"
 email:
-description: >-
-  Simple, step-by-step crochet lessons for beginners. Learn stitches, tips, and easy ideas with The Kit Wit.
+description: "Simple crochet lessons for beginners by The Kit Wit."
 minimal_mistakes_skin: default
 search: true
 
-# Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
 
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -43,9 +23,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "The Kit Wit"
-  avatar : "/assets/images/the-kit-wit-avatar-small.png"
-  bio    : "Simple crochet lessons, tips, and ideas for beginners."
+  name: "The Kit Wit"
+  avatar: "/assets/images/the-kit-wit-avatar-small.png"
+  bio: "Simple crochet lessons, tips, and ideas for beginners."
   links:
     - label: "Join my WhatsApp channel"
       icon: "fab fa-fw fa-whatsapp"
@@ -58,7 +38,6 @@ footer:
       url: "https://whatsapp.com/channel/0029VbDsX5SH5JLvxKh5VX0a"
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -69,7 +48,6 @@ defaults:
       comments: false
       share: true
       related: true
-  # _pages
   - scope:
       path: "_pages"
       type: pages
