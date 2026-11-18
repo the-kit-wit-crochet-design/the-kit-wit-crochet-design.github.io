@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Crochet for Beginners
-logo: "/assets/images/the-kit-wit-logo-new.png"
+logo:"/assets/images/the-kit-wit-avatar-small.png"
 email:
 description: >-
   Simple, step-by-step crochet lessons for beginners. Learn stitches, tips, and easy ideas with The Kit Wit.
