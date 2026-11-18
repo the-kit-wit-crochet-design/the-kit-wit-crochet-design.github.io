@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "The Kit Wit"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Simple crochet lessons, tips, and ideas for beginners."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Join my WhatsApp channel"
+      icon: "fab fa-fw fa-whatsapp"
+      url: "https://whatsapp.com/channel/0029VbDsX5SH5JLvxKh5VX0a"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
