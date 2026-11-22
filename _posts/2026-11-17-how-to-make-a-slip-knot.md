@@ -1,6 +1,7 @@
 ---
 title: "How to Make a Slip Knot (Easy Beginner Guide)"
 layout: single
+date: 2026-11-17 09:00:00 +0000
 categories: [beginner]
 ---
 
