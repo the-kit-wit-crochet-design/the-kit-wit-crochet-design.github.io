@@ -1,6 +1,7 @@
 ---
 title: "How to Read a Crochet Pattern (Beginner Guide)"
 layout: single
+date: 2026-11-18 11:00:00 +0000
 categories: [beginner]
 ---
 
@@ -8,26 +9,17 @@ Crochet patterns look like a secret code at first. Once you know the short words
 
 ## Common abbreviations
 
-| Short | Meaning |
-|-------|---------|
-| ch | chain |
-| sl st | slip stitch |
-| sc | single crochet |
-| dc | double crochet |
-| st | stitch |
-| yo | yarn over |
-| sk | skip |
-| rep | repeat |
+![Common crochet abbreviations and their symbols](/assets/images/pattern-abbreviations.png)
+
+## Reading one row
+
+Here is a real example. Each part of the line tells you exactly what to do.
+
+![A pattern row explained step by step](/assets/images/pattern-example.png)
 
 ## Symbols you will see
-- **Asterisks (\* \*):** repeat everything between the stars.
-- **Parentheses ( ):** do these stitches all in the same place.
-- **A number after the end of a row, like (12):** the number of stitches you should have.
 
-## Example
-**Row 1:** Ch 11. Sc in the 2nd ch from hook and in each ch across. (10)
-
-This means: make 11 chains, put a single crochet in the second chain from your hook, then in every chain after it. At the end, you should have 10 stitches.
+![Asterisks, parentheses and stitch counts](/assets/images/pattern-symbols.png)
 
 ## US and UK names
 Patterns use different names depending on the country. A **US double crochet** is called a **treble** in UK patterns. Always check which one your pattern uses. It's usually written at the top.
