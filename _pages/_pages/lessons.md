@@ -13,3 +13,6 @@ Follow these lessons in order, from the first loop to your first real project.
 4. [How to Turn and Make Row 2](/beginner/how-to-turn-and-make-row-2/)
 5. [How to Double Crochet](/beginner/how-to-do-double-crochet/)
 6. [How to Read a Crochet Pattern](/beginner/how-to-read-a-crochet-pattern/)
+7. [How to Make a Simple Crochet Coaster](/beginner/how-to-make-a-crochet-coaster/)
+8. [How to Change Colors in Crochet](/beginner/how-to-change-colors-in-crochet/)
+9. [How to Fix Crochet Mistakes](/beginner/how-to-fix-crochet-mistakes/)
