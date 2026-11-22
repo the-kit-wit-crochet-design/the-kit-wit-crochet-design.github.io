@@ -13,11 +13,17 @@ The chain stitch is the base of almost every crochet project. Once you can chain
 
 ## Steps
 
-1. Hold the hook in your right hand like a pencil. Pinch the slip knot with your left hand.
-2. Wrap the yarn over the hook, from back to front. This is called a "yarn over."
-3. Pull the hook (with the yarn on it) through the loop that is already on your hook.
-4. You now have one new loop on the hook. That's one chain!
-5. Repeat steps 2 to 4 to make more chains.
+**1. Yarn over.** Hold the hook in your right hand like a pencil. Wrap the working yarn over the hook, from back to front.
+
+![Chain stitch step 1: yarn over](/assets/images/chain-step-1.png)
+
+**2. Pull through.** Draw the yarn through the loop that is already on your hook.
+
+![Chain stitch step 2: pull through](/assets/images/chain-step-2.png)
+
+**3. One chain made.** You now have one new loop on the hook. That's one chain! Repeat steps 1 and 2 to make more.
+
+![Chain stitch step 3: one chain made](/assets/images/chain-step-3.png)
 
 ## Tips
 - Keep your stitches loose, not tight. It's easier to put your hook in loose chains later.
