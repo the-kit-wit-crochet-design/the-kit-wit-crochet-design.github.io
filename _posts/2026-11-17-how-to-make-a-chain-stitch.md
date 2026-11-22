@@ -1,6 +1,7 @@
 ---
 title: "How to Make a Chain Stitch (Beginner Guide)"
 layout: single
+date: 2026-11-17 10:00:00 +0000
 categories: [beginner]
 ---
 
