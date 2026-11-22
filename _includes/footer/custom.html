@@ -1,0 +1,48 @@
+<button id="back-to-top" aria-label="Back to top" title="Back to top">&#8593; Top</button>
+
+<style>
+  #back-to-top {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 999;
+    padding: 12px 18px;
+    border: 0;
+    border-radius: 999px;
+    background: #5f7464;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease, background 0.2s ease;
+  }
+  #back-to-top.show {
+    opacity: 1;
+    visibility: visible;
+  }
+  #back-to-top:hover {
+    background: #b8924a;
+  }
+</style>
+
+<script>
+  (function () {
+    var btn = document.getElementById("back-to-top");
+    if (!btn) return;
+    function toggle() {
+      if (window.scrollY > 400) {
+        btn.classList.add("show");
+      } else {
+        btn.classList.remove("show");
+      }
+    }
+    window.addEventListener("scroll", toggle, { passive: true });
+    toggle();
+    btn.addEventListener("click", function () {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  })();
+</script>
