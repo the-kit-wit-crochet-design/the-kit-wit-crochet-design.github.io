@@ -1,11 +1,11 @@
 ---
-title: "About The Kit Wit"
+title: "About The Knit Wit"
 permalink: /about/
 layout: single
 author_profile: true
 ---
 
-Welcome to **The Kit Wit**, a place for simple, friendly crochet lessons.
+Welcome to **The Knit Wit**, a place for simple, friendly crochet lessons.
 
 ## What you'll find here
 - Step-by-step lessons for complete beginners
@@ -24,6 +24,6 @@ New to crochet? Begin with these lessons, in order:
 3. [How to Single Crochet](/beginner/how-to-do-single-crochet/)
 
 ## Join the community
-New lessons and ideas are shared on our WhatsApp channel. [Join The Kit Wit on WhatsApp](https://whatsapp.com/channel/0029VbDsX5SH5JLvxKh5VX0a).
+New lessons and ideas are shared on our WhatsApp channel. [Join The Knit Wit on WhatsApp](https://whatsapp.com/channel/0029VbDsX5SH5JLvxKh5VX0a).
 
 Happy crocheting! 🧶
