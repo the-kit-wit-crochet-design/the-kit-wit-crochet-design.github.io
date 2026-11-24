@@ -1,7 +1,7 @@
 title: "Crochet for Beginners"
 logo: "/assets/images/the-kit-wit-logo-wide.png"
 email:
-description: "Simple crochet lessons for beginners by The Kit Wit."
+description: "Simple crochet lessons for beginners by The Knit Wit."
 minimal_mistakes_skin: default
 search: true
 
@@ -23,7 +23,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "The Kit Wit"
+  name: "The Knit Wit"
   avatar: "/assets/images/the-kit-wit-avatar-small.png"
   bio: "Simple crochet lessons, tips, and ideas for beginners."
   links:
